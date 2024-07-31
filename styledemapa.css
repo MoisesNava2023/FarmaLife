@@ -1,0 +1,39 @@
+.Inicio {
+
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: oblique;
+   
+
+   
+}
+
+.btn-30 {
+    padding: 5px 15px;
+    border: 2px solid #ffffff;
+    color: #fffdfc;
+    background-color: #ff0000 ;
+    }
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    color: #f1ecec;
+}
+body{
+    background-color: rgb(30, 32, 92);
+}
+
+#Mapa_Centralizado, body,html{
+   
+height: 97.5%;
+padding: 0;
+margin: 0;
+
+}

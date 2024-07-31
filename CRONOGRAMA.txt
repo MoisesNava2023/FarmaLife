@@ -1,0 +1,14 @@
+
+08/07/2024
+Inicio busca de contenido a usar en la web.
+inclusión de la extencion live server para mejor visualización en tiempo real.
+Inclusión de Todos los 10 apartados para creación de los index y contenido. 
+Inclusión de Google fonts poppins
+
+21/07/2024
+Comenzamos con la actualizacion del menu y los apartados.
+
+22/07/2024
+mejoramos la visualizacion de el Inicio de pagina.
+agregamos link de redes sociales en un footer asi como numeros telefonicos para mejor informacion al publico.
+personalizamos el final de la pagina web con un formato clase.
